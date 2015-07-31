@@ -42,9 +42,8 @@ GIT
     post_clerk (0.4)
       office_clerk (~> 0.8)
 
-GIT
-  remote: git://github.com/rubyclerks/print_clerk.git
-  revision: 14c173070cdf05ace07478b585ee97741f251f5a
+PATH
+  remote: ../print_clerk
   specs:
     print_clerk (0.4)
       barby (~> 0.6)

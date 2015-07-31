@@ -33,7 +33,7 @@ module SalesClerk
     
     config.middleware.use Rack::Attack
     
-    config.i18n.default_locale = :fi
+    config.i18n.default_locale = :en
 
   end
 end
