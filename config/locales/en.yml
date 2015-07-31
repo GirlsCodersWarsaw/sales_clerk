@@ -5,8 +5,8 @@ en:
   close: Close
   designed_by: Designed by
   empty: Empty
-  log_in_see_history: To see the order history you need to og in.
-  login_addresses: If you log in you can see your previouly used addresses.
+  log_in_see_history: To see the order history you need to log in.
+  login_addresses: If you log in you can see your previously used addresses.
   make_order: Make Order
   must_accept: You must accept Terms and Conditions before making an order.
   no_order_found: Order not found
@@ -36,7 +36,7 @@ en:
   shipping_cost: Shipping cost
   similar_products: Same products in this group
   terms: Term and conditions
-  thanks: Thanks you for your order
+  thanks: Thank you for your order
   to_hompage: to homepage
   total: Total
   latest_order: Last Order
