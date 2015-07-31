@@ -2,10 +2,8 @@
 Category_1:
   id: 1
   online: true
-  name: Luomukosmetiikka
-  description: ! "Farfallan ylellisissä luomulaatuisissa tuotteissa yhdistyy ainutlaatuisella
-    tavalla uutta luova dermatologinen tutkimus, huolella toteutettu eettisyys ja
-    raikas, tyylikäs ulkoasu.\r\n"
+  name: Cosmetics
+  description: ! "Natural cosmetics for hair and body"
   position: 1
   link: farfalla
   main_picture_file_name: menu-vartalo.jpg
@@ -18,27 +16,23 @@ Category_1:
   extra_picture_updated_at: 2014-12-05 19:11:52.189354000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-05 19:11:52.498327000 Z
-  summary: ! "**Farfallan huippulaatuista luomukosmetiikkaa - jopa 99% sertifioitua
-    luomua (NaTrue)**\r\n"
+  summary: ! "Natural cosmetics"
 Category_2:
   id: 7
   category_id: 39
   online: false
-  name: Korut
-  description: Vielä enemmän ihanuuksia ja yksittäiskappaleita liikkeessämme Helsingin
-    Viiskulmassa.
+  name: Jewelery
+  description: Beautiful and unique hand-made jewelery.
   position: 1
   link: korut
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-11-24 20:50:52.187761000 Z
-  summary: ! '**Koruja kaikkiin tilaisuuksiin!** '
+  summary: ! 'Beautiful jewelery '
 Category_3:
   id: 13
   online: true
-  name: Gourmet
-  description: Valikoima herkullisia tuotteita ihastuttavissa, ekologisissa pakkauksissa.
-    Huolella valittu lajitelma teetä, herkkudippejä, juomajauheita, maustesekoituksia,
-    makoisia jälkiruokia. Tuotteet eivät sisällä lisäaineita tai arominvahventeita.
+  name: Food
+  description: Tasty and healthy ecological food.
   position: 2
   link: gourmet
   main_picture_file_name: menu-gourmet3.jpg
@@ -51,23 +45,23 @@ Category_3:
   extra_picture_updated_at: 2014-12-06 06:17:29.559715000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-06 06:17:29.825880000 Z
-  summary: ! '**Herkut ja laadukkaat teet lahjaksi tai omaan keittiöön**'
+  summary: ! 'Healthy food and snacks'
 Category_4:
   id: 14
   category_id: 39
   online: false
-  name: Valaisimet
-  description: ! 'Yksilöllisiä ja kauniita valaisimia tuomaan tunnelmaa kotiisi. '
+  name: Lamps
+  description: ! 'Original and beautiful lamps will bring warm light to your house. '
   position: 1
   link: valaisimet
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-11-24 20:51:05.084029000 Z
-  summary: ! ' **Tyylikkäitä valaisimia kotiisi!**'
+  summary: ! ' Original lamps'
 Category_5:
   id: 15
   category_id: 27
   online: false
-  name: Sisustustuotteet
+  name: Interior Products
   position: 1
   link: sisustustuotteet
   created_at: 2014-01-28 21:09:18.000000000 Z
@@ -77,7 +71,7 @@ Category_6:
   id: 20
   category_id: 27
   online: false
-  name: Laukut
+  name: Bags
   position: 1
   link: laukut
   created_at: 2014-01-28 21:09:18.000000000 Z
@@ -86,7 +80,7 @@ Category_6:
 Category_7:
   id: 27
   online: false
-  name: Muut
+  name: Other
   description: ''
   position: 100
   link: muut
@@ -97,11 +91,8 @@ Category_8:
   id: 30
   category_id: 1
   online: true
-  name: Hiustenhoito
-  description: ! "Shampoot, hoitotuotteet ja toimivat muotoilutuotteet kaikille eri
-    hiustyypeille. Farfallaa arvostavat sekä asiakkaat että alan ammattilaiset: sarja
-    on jo kymmenien ekokampaajien käytössä ympäri Suomen. BDIH -sertifioitua luonnonkosmetiikkaa
-    luomuainesosin. \r\n\r\n\r\n\r\n\r\n\r\n"
+  name: Hair Care
+  description: ! "Shampoons and conditioners for your hair"
   position: 2
   link: hiustenhoito
   main_picture_file_name: menu-hius.jpg
@@ -114,20 +105,13 @@ Category_8:
   extra_picture_updated_at: 2014-12-15 20:28:24.944513000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:28:25.263364000 Z
-  summary: ! '**Farfallan hiustenhoitosarja on yksi kattavimmista 100% luonnollisista
-    hiustenhoitosarjoista markkinoilla.**'
+  summary: ! 'Hair care products'
 Category_9:
   id: 31
   category_id: 1
   online: true
-  name: Vartalonhoito
-  description: ! "Toimivat luomudeodorantit, ravitsevat kosteusvoiteet, hurmaavat
-    kauneusöljyt, ihastuttavat suihkutuotteet...<br>Farfallan Feel Beautiful -vartalonhoitosarjassa
-    on neljä tuotelinjaa: sitruksenraikas ja mieto Daily Pleasure, ravitseva ja lempeän
-    aistillinen Intense Frangipani, energisoiva ja kiinteyttävä Silhouette Miracle
-    tai täysin tuoksuton herkän ihon Pure Sensitive. Valitse niistä juuri Sinulle
-    sopivat ihanat, hemmottelevat luomutuotteet!\r\n<em><br>\"Happiness makes you
-    beautiful. Our organic cosmetics enhance its effect!\"</em>\r\n"
+  name: Body Treatment
+  description: ! "Happiness makes you beautiful. Our organic cosmetics enhance its effect!"
   position: 3
   link: vartalonhoito
   main_picture_file_name: menu-vartalo.jpg
@@ -140,18 +124,13 @@ Category_9:
   extra_picture_updated_at: 2014-12-15 20:28:44.471156000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:28:44.773901000 Z
-  summary: ! '**Farfallan upea vartalonhoitosarja NaTrue -sertifioitua luomukosmetiikkaa:
-    jopa 99% luomua.** '
+  summary: ! 'Organic cosmetics for body '
 Category_10:
   id: 32
   category_id: 1
   online: true
-  name: Kasvojenhoito
-  description: ! "Parasta ja puhtainta hoitoa ihollesi! Farfallan luomulaatuisia tuotteita
-    käytetään spa:issa ja hoitoloissa, jotka on valittu maailman parhaiden joukkoon.
-    Voit poimia juuri sinun ihollesi sopivat huipputuotteet ja räätälöidä oman, täydellisen
-    kasvojenhoito-ohjelmasi kuudesta eri tuotelinjasta. <em><br>\"Happiness makes
-    you beautiful. Our organic cosmetics enhance its effect!\"</em>\r\n"
+  name: Facial Treatment
+  description: ! "Happiness makes you beautiful. Our organic cosmetics enhance its effect!"
   position: 1
   link: Kasvojenhoito
   main_picture_file_name: menu-kasvo.jpg
@@ -164,19 +143,13 @@ Category_10:
   extra_picture_updated_at: 2014-12-05 19:15:36.236972000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-05 19:15:36.583875000 Z
-  summary: ! '**Farfallan täydellinen kasvojenhoitosarja NaTrue -sertifioitua luomukosmetiikkaa
-    - yli 95%  luomua.** '
+  summary: ! 'Facial organic cosmetics'
 Category_11:
   id: 34
   category_id: 1
   online: true
-  name: Luomuparfyymit
-  description: Upeita tuoksuluomuksia nykynaiselle! Luonnollisen tuoksun huomaa ainoastaan
-    henkilön välittömässä läheisyydessä. Parfyymit luovat ihon oman tuoksun kanssa
-    ainutlaatuisen, luonnollisen harmonian. Koska parfyymit on valmistettu korkealaatuisista
-    sertifioiduista luomuainesosista, ne voivat sopia myös henkilöille, joille kemialliset
-    tuoksut aiheuttavat allergioita. Farfallan luomuparfyymeilla on NaTrue -sertifikaatti,
-    ja luomuprosentti kaikista aineista on 98%.
+  name: Perfumes
+  description: ! "Unique and natural perfumes."
   position: 6
   link: luomu-parfyymit
   main_picture_file_name: menu-parfyymit.jpg
@@ -189,16 +162,13 @@ Category_11:
   extra_picture_updated_at: 2014-12-15 20:29:26.960847000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:29:27.267520000 Z
-  summary: ! '**Farfallan luomuparfyymit** '
+  summary: ! 'Organic perfumes'
 Category_12:
   id: 35
   category_id: 73
   online: true
-  name: Luomu Aromasprayt ja Roll onit
-  description: ! ' Sprayta voi suihkauttaa suoraan iholle, kaulalle tai ranteisiin.
-    Sitä voi myös suihkauttaa ilmaan ja virkistäytyä hengittämällä ihania tuoksuja.
-    Kätevä pikku roll on kulkee helposti mukana ja voit sipaista sitä esim. ranteisiin
-    tai kaulalle. Pidä aina käsilaukussa!'
+  name: Deodorants
+  description: ! 'Organic Aroma Spray and Roll-ons deodorants'
   position: 1
   link: aromasprayt
   main_picture_file_name: menu-aromat.jpg
@@ -211,17 +181,13 @@ Category_12:
   extra_picture_updated_at: 2014-12-15 20:32:10.888159000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:32:11.178989000 Z
-  summary: ! '**Mahtavia tuoksuja pienessä pullossa! Farfallan aromaterapeuttiset
-    sprayt ja -roll onit on suunniteltu avuksi joskus vaativan elämänmenon keskellä.**'
+  summary: ! 'Natural desodorants'
 Category_13:
   id: 36
   category_id: 73
   online: true
-  name: Luomu Huonesprayt
-  description: ! 'Spraypullosta on helppoa ja nopeaa suihkauttaa ihanaa ja luonnollista
-    raikkautta. Yhdeksän tuoksua erilaisiin tilanteisiin: huoneilman ja ilmapiirin
-    raikastamiseen, tunnelman kohottajaksi, rentoutumiseen, keskittymiskyvyn parantamiseen
-    jne.<br>Ihastuttava huonespray on myös hyvä lahjaidea! '
+  name: Air Fresheners
+  description: ! 'Natural air fresheners for your home'
   position: 1
   link: luomu-huonesprayt
   main_picture_file_name: menu-huonespray.jpg
@@ -234,8 +200,7 @@ Category_13:
   extra_picture_updated_at: 2014-12-15 20:32:36.554530000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:32:36.847660000 Z
-  summary: ! '**Farfallan luomulaatuiset huonesprayt sopivat käytettäväksi kotona,
-    työpaikoilla, kylpyhuoneissa, autossa, hoitotiloissa jne.**'
+  summary: ! 'Air fresheners'
 Category_14:
   id: 38
   category_id: 32
@@ -250,7 +215,7 @@ Category_14:
 Category_15:
   id: 39
   online: true
-  name: Lahjat, sisustus ja korut
+  name: Gifts, interior and jewelery
   description: ''
   position: 4
   link: sisustus
@@ -264,14 +229,13 @@ Category_15:
   extra_picture_updated_at: 2014-12-06 06:21:00.203034000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-06 06:21:00.515562000 Z
-  summary: ! '**Raikasta tyyliä sisustukseen, houkutuksia lahjoiksi, koruja kaikkiin
-    tilaisuuksiin: töihin, linnanjuhliin tai hippoihin!** '
+  summary: ! 'Fresh style interior, the temptations of gifts, jewelry for all occasions: to work and to a party'
 Category_16:
   id: 40
   category_id: 1
   online: true
-  name: Miehille
-  description: Luomutuotteet miehille päivittäiseen puhtauteen ja hoitoon.
+  name: For men
+  description: Organic products for daily cleanliness and care of men.
   position: 4
   link: miehille
   main_picture_file_name: menu-men.jpg
@@ -284,12 +248,12 @@ Category_16:
   extra_picture_updated_at: 2014-12-15 20:28:58.228526000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:28:58.566181000 Z
-  summary: ! '**Selkeä ja käytännöllinen, raikas ja tehokas - FEEL GREAT!**'
+  summary: ! 'Men organic cosmetics'
 Category_17:
   id: 41
   category_id: 75
   online: false
-  name: Vaatteet
+  name: Cloths
   description: ''
   position: 1
   link: vaatteet
@@ -300,10 +264,8 @@ Category_18:
   id: 42
   category_id: 1
   online: true
-  name: Öljyt
-  description: ! "Tuoksuttomat perusöljyt, miedosti tuoksuvat ihoöljyt, upeat  jalokiviöljyt
-    - kaikki luomua.\r\nFarfallan öljyillä on kolmen tähden NaTrue -sertifikaatti
-    (100% luonnollisista aineista, joista vähintään 98% sertifioitua luomua)."
+  name: Oils
+  description: ! "Natural oils"
   position: 5
   link: oljyt
   main_picture_file_name: menu-oljy.jpg
@@ -316,12 +278,12 @@ Category_18:
   extra_picture_updated_at: 2014-12-15 20:29:13.890983000 Z
   created_at: 2014-01-28 21:09:18.000000000 Z
   updated_at: 2014-12-15 20:29:14.238234000 Z
-  summary: ! '**Farfalla on luomulaatuisten öljyjen asiantuntija.**'
+  summary: ! 'Natural oils'
 Category_19:
   id: 43
   category_id: 27
   online: false
-  name: Muu Kosmetiikka
+  name: Other cosmetics
   description: ''
   position: 1
   link: muu_kosmetiikka
@@ -332,7 +294,7 @@ Category_20:
   id: 44
   category_id: 73
   online: false
-  name: Suitsukkeet
+  name: Incense
   description: ''
   position: 1
   link: suitsukkeet
@@ -343,7 +305,7 @@ Category_21:
   id: 45
   category_id: 75
   online: false
-  name: Tunika
+  name: Tunic
   description: ''
   position: 1
   link: tunika
@@ -354,7 +316,7 @@ Category_22:
   id: 46
   category_id: 27
   online: false
-  name: Sekalaista
+  name: Miscellaneous
   description: ''
   position: 1
   link: sekalaista
@@ -365,7 +327,7 @@ Category_23:
   id: 47
   category_id: 53
   online: false
-  name: Keittiöesineet
+  name: Kitchen equipment
   description: ''
   position: 1
   link: keittiöesineet
@@ -376,7 +338,7 @@ Category_24:
   id: 48
   category_id: 53
   online: false
-  name: Koristeesineet
+  name: Decorations
   description: ''
   position: 1
   link: koristeesineet
@@ -387,7 +349,7 @@ Category_25:
   id: 49
   category_id: 75
   online: false
-  name: Paidat ja puserot
+  name: Shirts and blouses
   description: ''
   position: 1
   link: puserot
@@ -398,7 +360,7 @@ Category_26:
   id: 50
   category_id: 75
   online: true
-  name: Takit
+  name: Jackets
   description: ''
   position: 1
   link: takit
@@ -417,7 +379,7 @@ Category_27:
   id: 51
   category_id: 75
   online: false
-  name: Huivit
+  name: Scarves
   description: ''
   position: 1
   link: huivit
@@ -438,7 +400,7 @@ Category_28:
 Category_29:
   id: 53
   online: false
-  name: Esineet
+  name: Objects
   description: ''
   position: 100
   link: esineet
@@ -449,7 +411,7 @@ Category_30:
   id: 54
   category_id: 39
   online: false
-  name: Peilit
+  name: Mirrors
   description: ! '**Upeita peilejä yksilölliseen sisustamiseen.** '
   position: 1
   link: peilit
@@ -460,7 +422,7 @@ Category_31:
   id: 55
   category_id: 75
   online: false
-  name: Mekot
+  name: Dresses
   description: ''
   position: 1
   link: mekot
@@ -482,7 +444,7 @@ Category_33:
   id: 57
   category_id: 75
   online: false
-  name: Hatut
+  name: Hats
   description: ''
   position: 1
   link: hatut
@@ -493,7 +455,7 @@ Category_34:
   id: 58
   category_id: 53
   online: false
-  name: Keittiötavarat
+  name: Kitchen Goods
   description: ''
   position: 1
   link: keittiötavarat
@@ -515,7 +477,7 @@ Category_36:
   id: 60
   category_id: 53
   online: false
-  name: Kylpyesineet
+  name: Bathing
   description: ''
   position: 1
   link: kylpyesineet
@@ -526,7 +488,7 @@ Category_37:
   id: 61
   category_id: 53
   online: false
-  name: Hopeaesineet
+  name: Silver
   description: ''
   position: 1
   link: hopeaesineet
@@ -536,7 +498,7 @@ Category_37:
 Category_38:
   id: 62
   online: false
-  name: Kankaat
+  name: Fabrics
   description: ''
   position: 100
   link: kankaat
@@ -547,7 +509,7 @@ Category_39:
   id: 63
   category_id: 62
   online: false
-  name: Sängynpeiteet
+  name: Bedspreads
   description: ''
   position: 1
   link: sängynpeiteet
@@ -558,7 +520,7 @@ Category_40:
   id: 64
   category_id: 75
   online: false
-  name: Neuleet
+  name: Knitwear
   description: ''
   position: 1
   link: neuleet
@@ -569,9 +531,8 @@ Category_41:
   id: 65
   category_id: 73
   online: true
-  name: Huonetuoksut
-  description: ! "**Huolella valikoitu lajitelma huonetuoksuja.**Tyylikästä raikkautta
-    kotiin tai työpaikalle.\r\n\r\n\r\n"
+  name: Fragrances
+  description: ! "Room fragrances"
   position: 1
   link: huonetuoksut
   main_picture_file_name: menu-tuoksu-huone.jpg
@@ -589,7 +550,7 @@ Category_42:
   id: 66
   category_id: 27
   online: false
-  name: Kynttilät
+  name: Candles
   description: ''
   position: 1
   link: kynttilät
@@ -600,7 +561,7 @@ Category_43:
   id: 67
   category_id: 53
   online: false
-  name: Puuesineet
+  name: Wood products
   description: ''
   position: 1
   link: puuesineet
@@ -611,7 +572,7 @@ Category_44:
   id: 68
   category_id: 75
   online: false
-  name: Hameet
+  name: Skirts
   description: ''
   position: 1
   link: hameet
@@ -622,7 +583,7 @@ Category_45:
   id: 69
   category_id: 75
   online: false
-  name: Kengät
+  name: Boots
   description: ''
   position: 1
   link: kengät
@@ -633,7 +594,7 @@ Category_46:
   id: 70
   category_id: 75
   online: false
-  name: Housut
+  name: Trousers
   description: ''
   position: 1
   link: housut
@@ -644,7 +605,7 @@ Category_47:
   id: 71
   category_id: 62
   online: false
-  name: Tyynyt
+  name: Cushions
   description: ''
   position: 1
   link: tyynyt
@@ -655,7 +616,7 @@ Category_48:
   id: 72
   category_id: 62
   online: false
-  name: Verhot
+  name: Drapes
   description: ''
   position: 1
   link: verhot
@@ -665,9 +626,8 @@ Category_48:
 Category_49:
   id: 73
   online: true
-  name: Tuoksut
-  description: Luomu huonesprayt ja -tuoksutikut sekä ihastuttavat aromasprayt ja
-    roll onit. Kaikissa upeat, luonnolliset tuoksut!
+  name: Scents
+  description: Natural fragrances.
   position: 3
   link: tuoksut
   main_picture_file_name: menu-tuoksu.jpg
@@ -680,15 +640,13 @@ Category_49:
   extra_picture_updated_at: 2014-12-15 20:31:48.746055000 Z
   created_at: 2014-02-09 12:33:28.398411000 Z
   updated_at: 2014-12-15 20:31:49.036051000 Z
-  summary: Valikoima mm. huippulaadukkaita huonetuoksuja.
+  summary: Top quality room fragrances.
 Category_50:
   id: 74
   category_id: 13
   online: true
-  name: Tee
-  description: ! "Huolella valittu lajitelma teetä:\r\nhuippulaatuiset maustamattomat
-    teelaadut parhailta viljelmiltä ja inspiroivia teesekoituksia. Myös valikoima
-    luomulaatuisia ja terveysvaikutteisia teetä. "
+  name: Tea
+  description: ! "Organic quality tea."
   position: 1
   link: tee
   main_picture_file_name: menu-tee.jpg
@@ -701,14 +659,12 @@ Category_50:
   extra_picture_updated_at: 2014-12-06 06:16:39.476701000 Z
   created_at: 2014-02-09 19:25:36.919070000 Z
   updated_at: 2014-12-06 06:16:39.790414000 Z
-  summary: ! "**Ihanat teet!**\r\n"
+  summary: ! "organic tea"
 Category_51:
   id: 75
   online: true
-  name: Vaatteet ja huivit
-  description: Luomuvillaa kylmiin keleihin, kimallusta juhlakauteen ja saksalaisen
-    suunnittelijan huiveja joka säähän. Väriä ja virtaa arkeen! Tule ja löydä itsellesi
-    juuri sinulle sopiva asuste.
+  name: Clothing and scarves
+  description: Organic wool for cold dryer conditions, shimmering festive season and the German designer scarves that weather. Color and flow of everyday life! Come and discover for yourself the perfect accessory.
   position: 4
   link: vaatteet_ja_huivit
   main_picture_file_name: menu-vaatteet.jpg
@@ -721,15 +677,13 @@ Category_51:
   extra_picture_updated_at: 2014-12-06 06:19:24.390109000 Z
   created_at: 2014-02-09 19:41:32.135874000 Z
   updated_at: 2014-12-06 06:19:24.704815000 Z
-  summary: ! '**Tyylikkäät vaatteet ja huivit**'
+  summary: ! 'Stylish clothes and scarves'
 Category_52:
   id: 76
   category_id: 1
   online: false
-  name: Eteeriset öljyt
-  description: ! 'Erittäin laaja valikoima Farfallan huippulaatuisia eteerisiä öljyjä,
-    joista suuri osa on luomulaatuisia. Aromaterapia ja eteeriset öljyt ovat Farfallan
-    erikoisalaa: Farfallan asiantuntemus nimenomaan tuoksujen alalla on maailman huipputasoa. '
+  name: Essential oils
+  description: ! 'Natural essential oils'
   position: 1
   link: eteeriset_öljyt
   created_at: 2014-08-19 14:59:41.975702000 Z
@@ -739,12 +693,8 @@ Category_53:
   id: 77
   category_id: 1
   online: false
-  name: Kylpytuotteet
-  description: ! '**Sveitsiläinen Farfalla valmistaa upeita luomulaatuisia spa- ja
-    kylpytuotteita, joita käytetään mm. maailman parhaiden joukkoon luokitelluissa
-    kylpylöissä.** Meiltä saat nyt Farfallan huippulaatuiset luomukylpyvaahdot ja
-    -suolat, joilla voit hoitaa ja hemmotella itseäsi kotona. Farfallan kylpytuotteet
-    ovat myös ihastuttavia ja tyylikkäitä lahjoja!'
+  name: Toiletries
+  description: ! 'organic spa and toiletries, which are used, for example. the worlds best in the classified spas.'
   position: 1
   link: kylpytuotteet
   created_at: 2014-08-19 15:16:05.611209000 Z
@@ -754,7 +704,7 @@ Category_54:
   id: 78
   category_id: 27
   online: false
-  name: Musiikki
+  name: Music
   description: ''
   position: 1
   link: musiikki
@@ -764,7 +714,7 @@ Category_54:
 Category_55:
   id: 79
   online: true
-  name: Uutuudet ja löydöt
+  name: New products and discoveries
   description: ''
   position: 6
   link: uutuudet_ja_löydöt
@@ -778,4 +728,4 @@ Category_55:
   extra_picture_updated_at: 2014-12-15 20:36:01.873288000 Z
   created_at: 2014-11-12 15:29:21.036541000 Z
   updated_at: 2014-12-15 20:36:02.128662000 Z
-  summary: ! '**Uutuuksia, löytöjä, erikoiseriä!**'
+  summary: ! 'New items, bargains, special items'
