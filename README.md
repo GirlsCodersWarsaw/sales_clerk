@@ -16,7 +16,7 @@ See it [**online here**](http://auringostaitaan.fi/), but please don't create ac
 
 ## Rubyclerks, OfficeClerk
 
-Rubyclerks is a complete small buisness management solution. 
+Rubyclerks is a complete small business management solution.
 [OfficeClerk](https://github.com/rubyclerks/office_clerk) is the main backend and provides most of the functionality.
 
 Other Clerks provide functionality like:
@@ -31,7 +31,7 @@ The SalesClerk application uses all of the above extensions.
 ## Views and ownership
 
 As most of the functionality is actually in the other clerks, 
-SalesClek contains mostly "just" the views that make up how a shop looks.
+SalesClerk contains mostly "just" the views that make up how a shop looks.
 
 We say "just", as this is not a small matter for anyone but the most tech-oriented. Previous experience has shown 
 though, that tastes vary greatly and so there is little sense in even trying to make this a general thing.
@@ -67,15 +67,21 @@ and either create a user manually in the rails console (with admin => true) or u
   rake db:create_admin
 ```
 
-to create an admin with email admin@example.com and password password.
+to create an admin with email admin@example.com and password: password.
 
 ```
   rails s
 ```
 
-and you're up. Though that is wuite a bleak view witout categories, so you will probalby want to log in (top right)
+and you're up. Though that is just a bleak view without categories, so you will probably want to log in (top right)
 and start creating some.
- 
+
+You can also load a sample database using task
+```
+rake db:fixtures
+```
+It already includes an example admin (as above).
+
 ### Configuration
 
 RubyClerks configuration is in config *files* , specifically config/locales/config.yml
@@ -100,7 +106,7 @@ Off course if you find bugs or have additions to the other clerks, see there for
 
 ## Further reading
 
-If you got this far and still have question , mail me, or mail the [list](https://groups.google.com/forum/#!forum/rubyclerks)
+If you got this far and still have question, mail me, or mail the [list](https://groups.google.com/forum/#!forum/rubyclerks)
 
 Check the [User Guide](http://rubyclerks.org/user_guide/01_index.html), 
 then the [Developer Guide](http://rubyclerks.org/developer_guide/01_index.html).

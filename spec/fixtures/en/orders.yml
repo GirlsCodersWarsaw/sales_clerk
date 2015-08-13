@@ -1,0 +1,49 @@
+---
+Order_1:
+  id: 20809
+  number: R201530000
+  note: ''
+  email: ania@email.com
+  ordered_on: 2015-08-03
+  shipment_type: pickup
+  shipment_price: 0.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: A
+    street: A
+    city: A
+    phone: '0'
+  created_at: 2015-08-03 10:14:34.753680000 Z
+  updated_at: 2015-08-03 10:14:34.753680000 Z
+Order_2:
+  id: 20810
+  number: R201530001
+  note: ''
+  email: basia@email.com
+  ordered_on: 2015-08-03
+  shipment_type: pickup
+  shipment_price: 0.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: B
+    street: B
+    city: B
+    phone: '1'
+  created_at: 2015-08-03 10:16:18.557019000 Z
+  updated_at: 2015-08-03 10:16:18.557019000 Z
+Order_3:
+  id: 20811
+  number: R201530002
+  note: ''
+  email: czesio@email.com
+  ordered_on: 2015-08-03
+  shipment_type: pickup
+  shipment_price: 0.0
+  shipment_tax: 24.0
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: C
+    street: C
+    city: C
+    phone: '2'
+  created_at: 2015-08-03 10:18:28.842963000 Z
+  updated_at: 2015-08-03 10:18:28.842963000 Z

@@ -1,0 +1,21 @@
+---
+Supplier_1:
+  id: 57
+  supplier_name: Food supplier
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Adam
+    street: Food street 123
+    city: Warsaw
+    phone: '123456'
+  created_at: 2015-08-03 09:32:02.898203000 Z
+  updated_at: 2015-08-03 09:32:03.035885000 Z
+Supplier_2:
+  id: 58
+  supplier_name: Vegan food
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    name: Bart
+    street: Vegan street
+    city: Warsaw
+    phone: '654321'
+  created_at: 2015-08-03 09:32:43.947383000 Z
+  updated_at: 2015-08-03 09:32:44.004824000 Z

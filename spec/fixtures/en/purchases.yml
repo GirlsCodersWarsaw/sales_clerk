@@ -1,0 +1,57 @@
+---
+Purchase_1:
+  id: 387
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:03:51.398894000 Z
+  updated_at: 2015-08-03 10:09:14.297344000 Z
+Purchase_2:
+  id: 388
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:05:43.338465000 Z
+  updated_at: 2015-08-03 10:09:20.632015000 Z
+Purchase_3:
+  id: 389
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:05:57.253767000 Z
+  updated_at: 2015-08-03 10:09:25.543204000 Z
+Purchase_4:
+  id: 390
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:07:36.952240000 Z
+  updated_at: 2015-08-03 10:09:32.218890000 Z
+Purchase_5:
+  id: 391
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:09:47.988091000 Z
+  updated_at: 2015-08-03 10:10:18.061450000 Z
+Purchase_6:
+  id: 392
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:10:36.964472000 Z
+  updated_at: 2015-08-03 10:10:59.756591000 Z
+Purchase_7:
+  id: 393
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:11:04.055969000 Z
+  updated_at: 2015-08-03 10:12:02.702638000 Z
+Purchase_8:
+  id: 394
+  name: Purchase 2015-08-03
+  ordered_on: 2015-08-03
+  received_on: 2015-08-03
+  created_at: 2015-08-03 10:12:25.212425000 Z
+  updated_at: 2015-08-03 10:12:43.840372000 Z

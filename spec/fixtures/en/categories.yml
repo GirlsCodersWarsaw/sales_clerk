@@ -1,0 +1,109 @@
+---
+Category_1:
+  id: 80
+  online: true
+  name: Food
+  description: Various foods.
+  summary: Groceries, dairy, vegetables
+  position: 1
+  link: food
+  created_at: 2015-08-03 09:21:57.339381000 Z
+  updated_at: 2015-08-03 09:21:57.339381000 Z
+Category_2:
+  id: 81
+  category_id: 80
+  online: true
+  name: Dairy
+  description: ''
+  summary: Dairy products
+  position: 1
+  link: dairy
+  created_at: 2015-08-03 09:23:18.615030000 Z
+  updated_at: 2015-08-03 10:01:09.270243000 Z
+Category_3:
+  id: 82
+  category_id: 80
+  online: true
+  name: Vegetables
+  description: ''
+  summary: various vegetables
+  position: 1
+  link: vegetables
+  created_at: 2015-08-03 09:24:08.414208000 Z
+  updated_at: 2015-08-03 10:01:19.372934000 Z
+Category_4:
+  id: 83
+  category_id: 80
+  online: true
+  name: Fruits
+  description: ''
+  summary: Various fruits
+  position: 1
+  link: fruit
+  created_at: 2015-08-03 09:24:36.907598000 Z
+  updated_at: 2015-08-03 10:01:28.994663000 Z
+Category_5:
+  id: 84
+  category_id: 80
+  online: true
+  name: Sweets
+  description: ''
+  summary: All kind of sweets
+  position: 1
+  link: sweets
+  created_at: 2015-08-03 09:25:10.849302000 Z
+  updated_at: 2015-08-03 10:01:38.715169000 Z
+Category_6:
+  id: 85
+  category_id: 80
+  online: true
+  name: Meat
+  description: ''
+  summary: Eat your protein!
+  position: 1
+  link: meat
+  created_at: 2015-08-03 09:25:49.546275000 Z
+  updated_at: 2015-08-03 10:01:50.724483000 Z
+Category_7:
+  id: 86
+  category_id: 80
+  online: true
+  name: Grain products
+  description: ''
+  summary: Wheat, rye, oats and all the grain stuff.
+  position: 1
+  link: grain_products
+  created_at: 2015-08-03 09:28:43.754085000 Z
+  updated_at: 2015-08-03 10:01:58.788982000 Z
+Category_8:
+  id: 87
+  category_id: 80
+  online: true
+  name: Vegan food
+  description: ''
+  summary: Food for vegans. No meat here.
+  position: 1
+  link: vegan_food
+  created_at: 2015-08-03 09:30:02.671826000 Z
+  updated_at: 2015-08-03 10:02:07.755127000 Z
+Category_9:
+  id: 88
+  category_id: 84
+  online: true
+  name: Chocolate
+  description: ''
+  summary: All kinds of chocolate
+  position: 1
+  link: chocolate
+  created_at: 2015-08-03 09:49:48.604749000 Z
+  updated_at: 2015-08-03 09:49:48.604749000 Z
+Category_10:
+  id: 89
+  online: true
+  name: Clothing
+  description: ''
+  summary: Clothing stuff.
+  position: 1
+  link: clothing
+  created_at: 2015-08-03 10:00:53.149243000 Z
+  updated_at: 2015-08-03 10:00:53.149243000 Z

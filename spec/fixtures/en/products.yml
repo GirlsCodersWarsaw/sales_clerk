@@ -1,0 +1,421 @@
+---
+Product_1:
+  id: 6248
+  price: 3.0
+  name: Milk
+  link: milk
+  description: 'Polish milk - fat and healthy. '
+  summary: ''
+  online: true
+  cost: 1.5
+  weight: 0.1
+  ean: ''
+  tax: 18.0
+  inventory: 20
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 81
+  supplier_id: 57
+  created_at: 2015-08-03 09:41:04.562538000 Z
+  updated_at: 2015-08-03 10:09:14.229599000 Z
+Product_2:
+  id: 6249
+  price: 5.0
+  name: Curd cheese
+  link: curd_cheese
+  description: ''
+  summary: Curd cheese, 200g
+  online: true
+  cost: 2.5
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 15
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 81
+  supplier_id: 57
+  created_at: 2015-08-03 09:42:44.229463000 Z
+  updated_at: 2015-08-03 10:12:02.617479000 Z
+Product_3:
+  id: 6250
+  price: 2.75
+  name: Cream
+  link: cream
+  description: ''
+  summary: Great for soups and sauces.
+  online: true
+  cost: 1.375
+  weight: 0.1
+  ean: ''
+  tax: 18.0
+  inventory: 5
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 81
+  supplier_id: 57
+  created_at: 2015-08-03 09:44:02.547339000 Z
+  updated_at: 2015-08-03 10:09:32.149547000 Z
+Product_4:
+  id: 6251
+  price: 1.5
+  name: Yoghurt
+  link: yoghurt
+  description: ''
+  summary: Natural yoghurt.
+  online: true
+  cost: 0.75
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 18
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 81
+  supplier_id: 57
+  created_at: 2015-08-03 09:45:08.833508000 Z
+  updated_at: 2015-08-03 10:09:32.131335000 Z
+Product_5:
+  id: 6252
+  price: 3.0
+  name: Buttermilk
+  link: buttermilk
+  description: ''
+  summary: Natural buttermilk.
+  online: true
+  cost: 1.5
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 1
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 81
+  supplier_id: 57
+  created_at: 2015-08-03 09:46:33.538981000 Z
+  updated_at: 2015-08-03 10:12:43.795564000 Z
+Product_6:
+  id: 6253
+  price: 6.0
+  name: Tomatoe
+  link: tomatoe
+  description: ''
+  summary: Red finest polish tomatoes.
+  online: true
+  cost: 3.0
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 15
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 82
+  supplier_id: 57
+  created_at: 2015-08-03 09:47:17.228053000 Z
+  updated_at: 2015-08-03 10:09:25.424464000 Z
+Product_7:
+  id: 6254
+  price: 5.0
+  name: Potato
+  link: potato
+  description: ''
+  summary: Polish potatoes
+  online: true
+  cost: 2.5
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 100
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 82
+  supplier_id: 57
+  created_at: 2015-08-03 09:47:59.995418000 Z
+  updated_at: 2015-08-03 10:09:25.442013000 Z
+Product_8:
+  id: 6255
+  price: 7.0
+  name: Onion
+  link: onion
+  description: ''
+  summary: Mild onion.
+  online: true
+  cost: 3.5
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 13
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 82
+  supplier_id: 57
+  created_at: 2015-08-03 09:48:31.699068000 Z
+  updated_at: 2015-08-03 10:10:18.005101000 Z
+Product_9:
+  id: 6256
+  price: 3.5
+  name: Cucumber
+  link: cucumber
+  description: ''
+  summary: Long cucumbers.
+  online: true
+  cost: 1.75
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 5
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 82
+  supplier_id: 57
+  created_at: 2015-08-03 09:49:04.378728000 Z
+  updated_at: 2015-08-03 10:09:25.463117000 Z
+Product_10:
+  id: 6257
+  price: 9.0
+  name: Milk chocolate
+  link: milk_chocolate
+  description: ''
+  summary: Milk chocolate
+  online: true
+  cost: 4.5
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 26
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 88
+  supplier_id: 57
+  created_at: 2015-08-03 09:50:17.545508000 Z
+  updated_at: 2015-08-03 10:12:02.638456000 Z
+Product_11:
+  id: 6258
+  price: 10.0
+  name: Dark chocolate
+  link: dark_chocolate
+  description: ''
+  summary: Dark chocolate
+  online: true
+  cost: 5.0
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 10
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 88
+  supplier_id: 57
+  created_at: 2015-08-03 09:50:55.083305000 Z
+  updated_at: 2015-08-03 10:12:02.597138000 Z
+Product_12:
+  id: 6259
+  price: 11.0
+  name: White chocolate
+  link: white_chocolate
+  description: ''
+  summary: White chocolate
+  online: true
+  cost: 5.5
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 14
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 88
+  supplier_id: 57
+  created_at: 2015-08-03 09:51:23.258355000 Z
+  updated_at: 2015-08-03 10:12:02.552274000 Z
+Product_13:
+  id: 6260
+  price: 4.0
+  name: Pork
+  link: pork
+  description: ''
+  summary: Pork meat.
+  online: true
+  cost: 2.0
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 7
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 85
+  supplier_id: 57
+  created_at: 2015-08-03 09:51:58.329063000 Z
+  updated_at: 2015-08-03 10:10:17.985253000 Z
+Product_14:
+  id: 6261
+  price: 3.0
+  name: Apple
+  link: apple
+  description: ''
+  summary: Polish apples.
+  online: true
+  cost: 1.5
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 20
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 83
+  supplier_id: 57
+  created_at: 2015-08-03 09:52:43.072046000 Z
+  updated_at: 2015-08-03 10:09:25.291302000 Z
+Product_15:
+  id: 6262
+  price: 5.0
+  name: Orange
+  link: orange
+  description: ''
+  summary: Sweet oranges.
+  online: true
+  cost: 2.5
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 30
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 83
+  supplier_id: 57
+  created_at: 2015-08-03 09:53:43.751524000 Z
+  updated_at: 2015-08-03 10:09:25.407309000 Z
+Product_16:
+  id: 6263
+  price: 12.0
+  name: Strawberries
+  link: strawberries
+  description: ''
+  summary: Sweet polish strawberries
+  online: true
+  cost: 6.0
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 100
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 83
+  supplier_id: 57
+  created_at: 2015-08-03 09:54:54.747492000 Z
+  updated_at: 2015-08-03 10:10:17.911898000 Z
+Product_17:
+  id: 6264
+  price: 10.0
+  name: Soy milk
+  link: soy_milk
+  description: ''
+  summary: Soy milk for vegans.
+  online: true
+  cost: 5.0
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 6
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 87
+  supplier_id: 58
+  created_at: 2015-08-03 09:55:53.982547000 Z
+  updated_at: 2015-08-03 10:09:14.113892000 Z
+Product_18:
+  id: 6265
+  price: 6.0
+  name: Corn flakes
+  link: corn_flakes
+  description: ''
+  summary: Corn flakes with vitamins.
+  online: true
+  cost: 3.0
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 5
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 86
+  supplier_id: 57
+  created_at: 2015-08-03 09:56:39.389168000 Z
+  updated_at: 2015-08-03 10:09:32.023186000 Z
+Product_19:
+  id: 6266
+  price: 4.5
+  name: Bread
+  link: bread
+  description: ''
+  summary: White bread.
+  online: true
+  cost: 2.25
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 23
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 86
+  supplier_id: 57
+  created_at: 2015-08-03 09:57:03.660495000 Z
+  updated_at: 2015-08-03 10:09:32.167355000 Z
+Product_20:
+  id: 6267
+  price: 1.0
+  name: Rolls
+  link: rolls
+  description: ''
+  summary: Tasty wheat rolls.
+  online: true
+  cost: 0.5
+  weight: 0.1
+  ean: ''
+  tax: 24.0
+  inventory: 2
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 86
+  supplier_id: 57
+  created_at: 2015-08-03 09:57:36.485636000 Z
+  updated_at: 2015-08-03 10:12:43.772795000 Z
+Product_21:
+  id: 6268
+  price: 15.0
+  name: Chicken
+  link: chicken
+  description: ''
+  summary: Chicken meat.
+  online: true
+  cost: 7.5
+  weight: 1.0
+  ean: ''
+  tax: 24.0
+  inventory: 27
+  stock_level: 0
+  properties: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  scode: ''
+  category_id: 85
+  supplier_id: 57
+  created_at: 2015-08-03 10:02:41.774289000 Z
+  updated_at: 2015-08-03 10:09:32.109140000 Z

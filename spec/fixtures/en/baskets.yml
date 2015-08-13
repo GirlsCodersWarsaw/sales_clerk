@@ -1,0 +1,97 @@
+---
+Basket_1:
+  id: 21656
+  kori_id: 387
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 36:0.1055E3
+  total_tax: !ruby/object:BigDecimal 36:0.1919E2
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:03:51.261482000 Z
+  updated_at: 2015-08-03 10:09:14.281379000 Z
+Basket_2:
+  id: 21657
+  kori_id: 388
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 27:0.0
+  total_tax: !ruby/object:BigDecimal 27:0.0
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:05:43.276973000 Z
+  updated_at: 2015-08-03 10:09:20.574510000 Z
+Basket_3:
+  id: 21658
+  kori_id: 389
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 36:0.59625E3
+  total_tax: !ruby/object:BigDecimal 36:0.11541E3
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:05:57.237764000 Z
+  updated_at: 2015-08-03 10:09:25.522882000 Z
+Basket_4:
+  id: 21659
+  kori_id: 390
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 36:0.10213E3
+  total_tax: !ruby/object:BigDecimal 36:0.1948E2
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:07:36.840369000 Z
+  updated_at: 2015-08-03 10:09:32.201827000 Z
+Basket_5:
+  id: 21660
+  kori_id: 391
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 36:0.6595E3
+  total_tax: !ruby/object:BigDecimal 36:0.12765E3
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:09:47.926949000 Z
+  updated_at: 2015-08-03 10:10:18.044319000 Z
+Basket_6:
+  id: 21661
+  kori_id: 392
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 36:0.55E1
+  total_tax: !ruby/object:BigDecimal 36:0.106E1
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:10:36.926633000 Z
+  updated_at: 2015-08-03 10:10:59.739662000 Z
+Basket_7:
+  id: 21662
+  kori_id: 393
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 27:0.231E3
+  total_tax: !ruby/object:BigDecimal 36:0.4471E2
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:11:03.959719000 Z
+  updated_at: 2015-08-03 10:12:02.685656000 Z
+Basket_8:
+  id: 21663
+  kori_id: 394
+  kori_type: Purchase
+  total_price: !ruby/object:BigDecimal 27:0.2E1
+  total_tax: !ruby/object:BigDecimal 36:0.39E0
+  locked: 2015-08-03
+  created_at: 2015-08-03 10:12:25.164745000 Z
+  updated_at: 2015-08-03 10:12:43.820741000 Z
+Basket_9:
+  id: 21664
+  kori_id: 20809
+  kori_type: Order
+  total_price: !ruby/object:BigDecimal 36:0.3925E2
+  total_tax: !ruby/object:BigDecimal 36:0.701E1
+  created_at: 2015-08-03 10:13:47.283709000 Z
+  updated_at: 2015-08-03 10:14:34.760711000 Z
+Basket_10:
+  id: 21665
+  kori_id: 20810
+  kori_type: Order
+  total_price: !ruby/object:BigDecimal 27:0.109E3
+  total_tax: !ruby/object:BigDecimal 36:0.211E2
+  created_at: 2015-08-03 10:15:40.081463000 Z
+  updated_at: 2015-08-03 10:16:18.560943000 Z
+Basket_11:
+  id: 21666
+  kori_id: 20811
+  kori_type: Order
+  total_price: !ruby/object:BigDecimal 36:0.425E2
+  total_tax: !ruby/object:BigDecimal 36:0.798E1
+  created_at: 2015-08-03 10:17:30.245258000 Z
+  updated_at: 2015-08-03 10:18:28.846031000 Z

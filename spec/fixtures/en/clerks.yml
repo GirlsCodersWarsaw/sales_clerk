@@ -1,0 +1,37 @@
+---
+Clerk_1:
+  id: 6
+  email: admin@example.com
+  admin: true
+  encrypted_password: 1f230b58ff1102511e0d7e3e626b274033f1823d3f6a1014f56322a104838ea36f1f467535bdb473fbc2851369501400f22a18550e5463de686cd0afd4aea18e
+  password_salt: "$2a$10$E50sP5EZpAHuJcozjdsQNu"
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2015-08-03 09:15:04.003806000 Z
+  updated_at: 2015-08-03 09:15:04.003806000 Z
+Clerk_2:
+  id: 7
+  email: ania@email.com
+  admin: false
+  encrypted_password: b006d5cd5a4be4968abb26c09878836062ff88173d8c5da3132dc18ab49691707744040feb5d3fb9d506a1c86c9258048d682e81e0c33736458ffbb1145d0467
+  password_salt: "$2a$10$LuRu8D/xYnsv8h7w1xxmne"
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2015-08-03 09:58:26.318920000 Z
+  updated_at: 2015-08-03 09:58:26.318920000 Z
+Clerk_3:
+  id: 8
+  email: basia@email.com
+  admin: false
+  encrypted_password: 9d9b3a3278ed927ff313122581935ff127a499cd85be21070f83d15f9da04dfe86d33659e39eb809374b1f860b41ffd55bc7c7d4d240b82b5ec406c6b0242ec3
+  password_salt: "$2a$10$NYSCkj8ZhB9NhPvDjdyoRe"
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2015-08-03 09:59:56.101001000 Z
+  updated_at: 2015-08-03 09:59:56.101001000 Z
+Clerk_4:
+  id: 9
+  email: czesio@email.com
+  admin: false
+  encrypted_password: 9b11c8767090a79bb3a50574f61c5d254af8c64f0c5f058e0b5329bee5cb234a500ec4c674a51621716fe636c4c3a6b97ee944e47ee18b79c7c2fc12d0f30ea1
+  password_salt: "$2a$10$5/ZgJlxHC5aK9dwIlrrAsO"
+  address: !ruby/hash:ActiveSupport::HashWithIndifferentAccess {}
+  created_at: 2015-08-03 10:03:13.899553000 Z
+  updated_at: 2015-08-03 10:03:13.899553000 Z
