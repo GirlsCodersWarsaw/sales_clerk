@@ -3,6 +3,11 @@
     %label.amount
       %span Amount:
       = euros @order.total_price
-  %script.stripe-button{"data-amount" => "#{@order.total_price*100}", "data-currency" => "eur", "data-description" => "dobre ciastko", "data-key" => Rails.configuration.stripe[:publishable_key], "data-locale" => "auto", :src => "https://checkout.stripe.com/checkout.js"}
-  %a#transfer-button.custom-button{:href => ""}
+  %script.stripe-button{"data-amount" => "#{@order.total_price*100}",
+                        "data-currency" => "eur",
+                        "data-description" => "Order No. #{@order.number}",
+                        "data-key" => Rails.configuration.stripe[:publishable_key],
+                        "data-locale" => "auto",
+                        :src => "https://checkout.stripe.com/checkout.js"}
+  %a#transfer-button.custom-button
     %span Money Transfer

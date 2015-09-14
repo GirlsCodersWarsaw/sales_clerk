@@ -23,22 +23,22 @@
               = item.name
           %td= euros item.product.price
           %td= item.quantity
-          %td= number_to_currency item.total
+          %td= euros item.total
       %tr
         %th 
         %th=t(:products_total)
         %th
         %th
-        %th= number_to_currency order.basket.total_price
+        %th= euros order.basket.total_price
       %tr
         %td 
         %td= t(:shipping_cost)
         %td
         %td
-        %td= number_to_currency order.shipment_price
+        %td= euros order.shipment_price
       %tr
         %th 
         %th=t(:order_total)
         %th
         %th
-        %th= number_to_currency order.total_price
+        %th= euros order.total_price

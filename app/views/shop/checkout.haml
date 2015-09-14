@@ -34,14 +34,14 @@
                     = item.quantity
                     = link_to cart_remove_path( :id => item.product.id ) do
                       = image_tag "down-icon.png" , :width => 16 , :height => 16
-                  %td= number_to_currency item.total
+                  %td= euros item.total
 
               %tr
                 %th 
                 %th= t(:products_total)
                 %th
                 %th
-                %th= number_to_currency current_basket.total_price
+                %th= euros current_basket.total_price
         
   .row
     %hr 
