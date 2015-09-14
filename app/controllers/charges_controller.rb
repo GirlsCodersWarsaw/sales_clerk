@@ -19,7 +19,9 @@ class ChargesController < ApplicationController
     )
 
     @order.pay_now
+    @order.payment_type = "stripe"
     @order.save
+
 
   rescue Stripe::CardError => e
     flash[:error] = e.message
