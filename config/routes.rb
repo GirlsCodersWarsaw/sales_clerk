@@ -12,6 +12,7 @@ Rails.application.routes.draw do
 
   # checkout + order
   get 'order' => 'shop#order', :as => :shop_order
+  resources :charges
   match 'checkout' => 'shop#checkout', :as => :shop_checkout , :via => [:get,:post]
   get "history" => "shop#history" , :as => :shop_history
 

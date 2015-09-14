@@ -20,6 +20,7 @@ gem 'rails-i18n', '~> 4.0.0'
 
 #one wishes one would not need it. alas . . .
 gem 'rack-attack'
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 group :development do
   gem 'better_errors' , :platforms=>[:mri_20, :mri_21, :rbx]
