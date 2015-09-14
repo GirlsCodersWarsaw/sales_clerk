@@ -2,9 +2,13 @@ class ChargesController < ApplicationController
   def new
   end
 
-  def create
+  def show
     @order = Order.find( session[:order] )
-    @amount = @order.total_price
+  end
+
+  def create
+    order = Order.find( session[:order] )
+    amount = order.total_price
 
     customer = Stripe::Customer.create(
       :email => 'example@stripe.com',
@@ -13,13 +17,17 @@ class ChargesController < ApplicationController
 
     charge = Stripe::Charge.create(
       :customer    => customer.id,
-      :amount      => (@amount*100).to_i,
+      :amount      => (amount*100).to_i,
       :description => 'Rails Stripe customer',
       :currency    => 'eur'
     )
 
-    @order.pay_now
-    @order.save
+    order.pay_now
+    order.payment_info = customer.id
+    order.payment_type = "stripe"
+    order.save
+
+    redirect_to charge_path(charge.id)
 
   rescue Stripe::CardError => e
     flash[:error] = e.message
