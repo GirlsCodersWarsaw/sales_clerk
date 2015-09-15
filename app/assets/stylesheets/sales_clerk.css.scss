@@ -551,3 +551,14 @@ CHARGES
   -o-border-radius: 4px;
   border-radius: 4px;
 }
+
+/******
+payment section on order
+*******/
+
+#payment-data {
+  display: none;
+}
+.custom-button:hover {
+  cursor: pointer;
+}
