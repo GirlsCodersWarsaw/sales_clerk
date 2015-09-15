@@ -1,4 +1,5 @@
 class ChargesController < ApplicationController
+
   def new
   end
 
@@ -23,7 +24,7 @@ class ChargesController < ApplicationController
     )
 
     order.pay_now
-    order.payment_info = customer.id
+    order.payment_info = charge.id
     order.payment_type = "stripe"
     order.save
 
