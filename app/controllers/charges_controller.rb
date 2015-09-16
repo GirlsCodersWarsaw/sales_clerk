@@ -28,7 +28,7 @@ class ChargesController < ApplicationController
     order.payment_type = "stripe"
     order.save
 
-    redirect_to charge_path(charge.id)
+    redirect_to shop_order_path
 
   rescue Stripe::CardError => e
     flash[:error] = e.message

@@ -13,6 +13,7 @@
     %b 
       =t(:choosen_shipment) +" :" 
       = shipping_method(@last.shipment_type).name
+      = render partial: 'payment', locals: {order: @last}
     %br
       = [ @last.name ,   @last.street,   @last.city ,  @last.phone  ].join(", ")
     
@@ -40,8 +41,9 @@
       = order.city
       %br 
       =order.phone
-
+      %br
     .col-md-9
       = render :partial => "order_9" , :locals => { :order => order }
+      = render partial: 'payment', locals: {order: order}
   %hr 
-      
+
