@@ -40,8 +40,8 @@ group  :production do
 end
 
 group :test do
-#  gem "poltergeist"
-#  gem "phantomjs"
+  gem "poltergeist"
+  gem "phantomjs", :require => 'phantomjs/poltergeist'
   gem "codeclimate-test-reporter"
   gem 'rspec-rails'
   gem 'capybara'
@@ -52,4 +52,5 @@ group :test do
   gem "email_spec"
   gem 'guard'
   gem 'guard-rspec'
+  gem 'selenium-webdriver'
 end
