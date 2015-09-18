@@ -1,10 +1,11 @@
 require 'spec_helper'
 
-describe "show Stripe checkout", :js => true do
-  before do
-    clerk = sign_in
-    create :order, :email => clerk.email
-    visit shop_order_path
+describe "pay with stripe", :js => true do
+  it "works without sign in" do
+    Capybara.default_wait_time = 10  # TODO: move config to spec_helper
+    order = create :order
+    page.set_rack_session order: order.id
+    page.visit shop_order_path
     click_button 'Pay with Card'
     stripe_iframe = all('iframe[name=stripe_checkout_app]').last
     Capybara.within_frame stripe_iframe do
@@ -13,10 +14,7 @@ describe "show Stripe checkout", :js => true do
       fill_in "cc-exp", :with => '11/15'
       fill_in "cc-csc", :with => '123'
       click_button "Pay"
-      Capybara.default_wait_time = 10
     end
-    end
-  it "pays" do
     expect(page).to have_content("Thanks, you paid")
   end
 end

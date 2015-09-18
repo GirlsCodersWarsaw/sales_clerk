@@ -22,6 +22,8 @@ gem 'rails-i18n', '~> 4.0.0'
 gem 'rack-attack'
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
+gem 'pry'
+
 group :development do
   gem 'better_errors' , :platforms=>[:mri_20, :mri_21, :rbx]
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :mri_21,:rbx]
@@ -53,4 +55,5 @@ group :test do
   gem 'guard'
   gem 'guard-rspec'
   gem 'selenium-webdriver'
+  gem 'rack_session_access'
 end
